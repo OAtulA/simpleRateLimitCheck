@@ -12,3 +12,7 @@ I like to keep things light
 
 I am using node 20 thus no need to use nodemon.  
 Also by using `--env-file` flag I do not need to use `dotconfig` such a releif
+
+## Result
+
+![video](wiki/RateLimitingExpress.mp4)

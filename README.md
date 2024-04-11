@@ -15,4 +15,8 @@ Also by using `--env-file` flag I do not need to use `dotconfig` such a releif
 
 ## Result
 
-![video](wiki/RateLimitingExpress.mp4)
+
+https://github.com/OAtulA/simpleRateLimitCheck/assets/98654618/c5c4c90e-5fcb-4af1-98c6-89229304d57a
+
+
+
